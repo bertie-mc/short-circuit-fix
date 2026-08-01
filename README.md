@@ -1,5 +1,9 @@
 # Short Circuit Fix
 
+> [!IMPORTANT]
+> Development has moved to the [`bertie` monorepo](https://github.com/bertie-mc/bertie/tree/main/mods/short-circuit-fix).
+> This repository is retained read-only for historical tags, releases, and issues.
+
 Registers *Short Circuit*'s circuit blocks on the translucent render layer - a step the NeoForge port omits (present in its Fabric build).
 
 - **Minecraft:** 1.21.1
